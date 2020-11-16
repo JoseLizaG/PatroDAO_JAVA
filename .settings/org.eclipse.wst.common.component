@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="LPII_CL2_LIZA_SHERON_MELISSA">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                        
+        
+        <property name="java-output-path" value="/LPII_CL2_LIZA_SHERON_MELISSA/build/classes"/>
+        <property name="context-root" value="LPII_CL2_LIZA_SHERON_MELISSA"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
